@@ -1,8 +1,8 @@
 // add Comment component here
 import React, {component} from 'react';
 
-class X extends Component {
+class Hakan extends Component {
   
 }
 
-export default X;
+export default Hakan;
