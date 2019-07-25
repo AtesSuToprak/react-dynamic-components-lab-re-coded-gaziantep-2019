@@ -4,7 +4,9 @@ import React, {component} from 'react';
 class Hakan extends Component {
   render() {
     return (
-    
+    <div>
+    {this.props.}
+    </div>
     )
   }
 }
